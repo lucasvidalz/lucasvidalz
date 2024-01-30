@@ -16,8 +16,6 @@
 
 *Front-End with Angular
 
-*Mobile with React Native
-
 *Database with SQL
 
 *Database services with SQL
