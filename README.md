@@ -16,9 +16,7 @@
 
 *Front-End with Angular
 
-*Database with SQL
-
-*Database services with SQL
+*Database with SQL Server
 
 <div style="display: inline_block"><br/>
  <img aling= "center" alt="c#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
