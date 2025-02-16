@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasvvidal)
 
 
- I'm an Information Systems student at the  Universidade Federal de Viçosa (UFV) in Brazil.
+ I'm a Fullstack Web Developer with .NET Core and Angular, and an Information Systems student at the Universidade Federal de Viçosa (UFV) in Brazil.
 
 <a href="https://github.com/lucasvidalz/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasvidalz&show_icons=true&theme=dracula" />
