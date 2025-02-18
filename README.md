@@ -4,12 +4,6 @@
 
  I'm a Fullstack Web Developer with .NET Core and Angular, and an Information Systems student at the Universidade Federal de Viçosa (UFV) in Brazil.
 
-<a href="https://github.com/lucasvidalz/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasvidalz&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/lucasvidalz/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasvidalz&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-</a>
 
 ## 🧰Toolbox -FullStack Developer
 
